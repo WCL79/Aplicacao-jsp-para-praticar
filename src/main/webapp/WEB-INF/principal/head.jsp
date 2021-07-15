@@ -4,7 +4,7 @@
     
     
 <head>
-    <title>Curso JSP - JDev Treinamento</title>
+    <title>JSP - Treinamento</title>
     <!-- HTML5 Shim and Respond.js IE10 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 10]>
@@ -16,7 +16,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
       <meta name="description" content="Projeto de estudos feito em JSP." />
-      <meta name="author" content="Alex Fernando Egidio" />
+      <meta name="author" content="Weslley Lima" />
       <!-- Favicon icon -->
       <link rel="icon" href="<%= request.getContextPath() %>/assets/images/favicon.ico" type="image/x-icon">
     <!-- Google font-->
