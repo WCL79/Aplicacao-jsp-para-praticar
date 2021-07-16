@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
 	<meta charset="ISO-8859-1">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -42,7 +42,7 @@ h5{
 <body>
 
 
-<h5>Bem vindo à aplicação modelo de JSP</h5>  
+<h5>Bem vindo ao modelo de JSP</h5>  
 
 
 
